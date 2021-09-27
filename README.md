@@ -1,6 +1,8 @@
 Hola!
 
-Soy Florencia, estudiante autodidacta 
+:hibiscus: Soy Florencia :hibiscus:
 
-Estoy enfocada en el lenguaje Java y sus tecnologías 
+Soy autodidacta principalmente :pencil2::notebook: 
+
+Mi interés está en el lenguaje Java y algunas de sus tecnologías :computer:
 
